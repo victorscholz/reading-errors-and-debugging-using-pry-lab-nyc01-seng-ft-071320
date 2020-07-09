@@ -12,5 +12,6 @@ end
 
 def engage
   state_log(generate_star_date)
+  binding.pry
 end
 engage
